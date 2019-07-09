@@ -1,9 +1,13 @@
 Git init
 Git status
-Git commit
+Git commit -a -m "Message for the commit"
 touch .<file name>   # to create new file in the repository
 git .gitignore
 tree
 open .
 cd  change/current directory
 pwd  #print working directory
+git clone <link>
+open .
+git log -2  #to see the last 2 commits
+git push remote origin  # to push the file into the github
