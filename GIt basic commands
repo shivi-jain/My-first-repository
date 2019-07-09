@@ -1,0 +1,4 @@
+Git init
+Git status
+Git commit
+touch .<file name>   # to create new file in the repository
