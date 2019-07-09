@@ -3,4 +3,7 @@ Git status
 Git commit
 touch .<file name>   # to create new file in the repository
 git .gitignore
-continue
+tree
+open .
+cd  change/current directory
+pwd  #print working directory
